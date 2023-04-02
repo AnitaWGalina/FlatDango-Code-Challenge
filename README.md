@@ -11,10 +11,10 @@ JSON
 
 
 ### DELIVERABLES
-1.See the first movie's details
-2.See a menu of all movies on the left side of the page in the `ul#films`
- element when the page loads
-3.Buy a ticket for a movie. After clicking the "Buy Ticket" button, I should
+1. See the first movie's details
+2. See a menu of all movies on the left side of the page in the `ul#films`
+   element when the page loads.
+3. Buy a ticket for a movie. After clicking the "Buy Ticket" button, I should
    see the number of available tickets decreasing on the frontend.
 
 ### DESCRIPTION
