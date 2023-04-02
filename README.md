@@ -1,5 +1,4 @@
 # FlatDango-code-challenge
-# FlatDango-code-challenge
 
 # AUTHOR - ANITA GALINA
 
