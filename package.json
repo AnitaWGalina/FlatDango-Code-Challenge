@@ -1,0 +1,11 @@
+{
+  "name": "flatdango-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "db": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

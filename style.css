@@ -1,0 +1,23 @@
+.box{
+    padding: 5px;
+    margin-top: auto;
+    margin: 5px;
+    background-color: #f3ff5f;
+    display: grid;
+    grid-template-columns: 400px 800px;
+    column-gap: 20px;
+    border: solid;
+   
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    
+    
+}
+
+
+
